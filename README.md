@@ -39,5 +39,5 @@ Gracias!
 
 
 ## Guía
+la guia esta en: <https://github.com/josepereza/guia-postgres/blob/main/guia/guia_postgres_v21a.md>
 
-La guia está en: <https://github.com/lesandie/guia-postgres/blob/main/guia/guia_postgres_v21a.md>
